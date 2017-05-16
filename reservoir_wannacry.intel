@@ -1,0 +1,19 @@
+#fields	indicator	indicator_type	meta.source	meta.do_notice
+iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com	Intel::DOMAIN	Domain lookup matches WANNACRY ransomware Gen1 kill switch	F
+ifferfsodp9ifjaposdfjhgosurijfaewrwergwea.com	Intel::DOMAIN	Domain lookup matches WANNACRY ransomware Gen2 kill switch	F
+
+d724d8cc6420f06e8a48752f0da11c66	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+3b669778698972c402f7c149fc844d0ddb3a00e8	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+07c44729e2c570b37db695323249474831f5861d45318bf49ccf5d2f5c8ea1cd	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+043e0d0d8b8cda56851f5b853f244f677bd1fd50f869075ef7ba1110771f70c2	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+5d26835be2cf4f08f2beeff301c06d05035d0a9ec3afacc71dff22813595c0b9	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+76a3666ce9119295104bb69ee7af3f2845d23f40ba48ace7987f79b06312bbdf	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+be22645c61949ad6a077373a7d6cd85e3fae44315632f161adc4c99d5a8e6844	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+f7c7b5e4b051ea5bd0017803f40af13bed224c4b0fd60b890b6784df5bd63494	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+fc626fe1e0f4d77b34851a8c60cdd11172472da3b9325bfe288ac8342f6c710a	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+09a46b3e1be080745a6d8d88d6b5bd351b1c7586ae0dc94d0c238ee36421cafa	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+aee20f9188a5c3954623583c6b0e6623ec90d5cd3fdec4e1001646e27664002c	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+c365ddaa345cfcaff3d629505572a484cff5221933d68e4a52130b8bb7badaf9	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
+b9c5d4339809e0ad9a00d4d3dd26fdf44a32819a54abf846bb9b560d81391c25	Intel::FILE_HASH	File hash matches WANNACRY ransomware	F
